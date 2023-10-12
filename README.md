@@ -52,17 +52,17 @@ npm install
 
 # Start the application
 npm run start
+```
 
 
-
-##Contributing
+## Contributing
 
 We welcome contributions from the community! Whether you're interested in bug fixes, new features, or improvements, please review our Contributing Guidelines for more details on how to get involved.
 
-**License**
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-**# Bonus Features** 
+## Bonus Features 
 **📱 Progressive Web App (PWA)**
 The Injury Tracking System is designed as a fully responsive Progressive Web App (PWA) that can be installed on your home screen, works offline, and offers an app-like experience across different devices and platforms.
 
@@ -72,7 +72,7 @@ In addition to numbering labeled areas, the system has the potential to automati
 **📊 Analytics Dashboard**
 We are exploring the possibility of integrating an analytics dashboard, which will provide visualizations of relevant metrics, enabling deeper insights into injury reports.
 
-**##Tech Stack**
+## Tech Stack
 Front-end: Next.js with Grommet or Ant Design for UI components. State management is handled using React Context.
 
 Back-end: GraphQL with Prisma as the ORM for database connectivity.
@@ -85,7 +85,7 @@ Progressive Web App (PWA): The system is built with PWA features, offering an en
 
 Feel free to explore other tech stacks that align with your project goals.
 
-**Contact**
+### Contact
 
 For inquiries and support, please reach out to [jainginni23@gmail.com].
 
